@@ -16,7 +16,7 @@ export const profile = {
 };
 
 export const stats = [
-  { label: "Experience", value: "Frontend Web Development" },
+  { label: "Experience", value: "Telecommunication Engineer" },
   { label: "Education", value: "Computer Engineering" },
   { label: "Interest", value: "Learning New Things" },
 ];
