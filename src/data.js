@@ -77,7 +77,7 @@ export const journey = [
     tags: ["Design System", "shadcn/ui", "Performance"],
   },
   {
-    year: "Now",
+    year: "May 2025 - Present",
     title: "Dispatcher Assosiate",
     place: "Denpasar, Bali",
     description:
