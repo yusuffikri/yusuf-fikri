@@ -23,9 +23,9 @@ export const stats = [
 
 export const about = {
   paragraphs: [
-    "Hi! I'm Yusuf Fikri Mustanir, a Frontend Web Developer focused on building clean, responsive, and easy-to-use digital experiences.",
-    "I enjoy turning designs into tidy, scalable code, with great attention to detail, performance, and accessibility. To me, a good interface isn't just about how it looks, but how it feels to use.",
-    "When I'm not coding, I love exploring the latest design trends, learning new technologies, and contributing to open source projects.",
+    "Hi! I'm Yusuf Fikri Mustanir, a Dispatcher Analyst with a proven track record in monitoring troubleshooting, repairing, and maintaining telecommunication equipment and infrastructure",
+    "I love diving into data to find out why issues happen and figuring out how to prevent them. In my role, I focus on keeping teams connected and vendors on track so we can hit our SLAs.",
+    "On a daily basis, I conduct data-driven analysis to identify service anomalies, collaborate across divisions to ensure strict SLA compliance, and deliver comprehensive weekly and monthly reports on team productivity, troubleshooting trends, and vendor performance.",
   ],
   highlights: [
     "Responsive & pixel-perfect UI",
