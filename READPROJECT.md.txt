@@ -1,0 +1,14 @@
+tampilan saat ini :
+https://yusuffikri.github.io/
+
+buatkan landing page untuk personal portofolio
+
+dengan requirement : 
+tech stack : react js, sndcui + css, animation
+
+rombak keseluruhan buatkan lebih modern , responsive,dan user friendly
+
+khusus untuk pada section My Journey buatkan seperti history checkpoint checkpoin
+
+
+pastikan navigation nya jika di klik akan mengarah ke tiap section yang di tuju
