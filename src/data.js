@@ -78,11 +78,14 @@ export const journey = [
   },
   {
     year: "Now",
-    title: "Always Growing",
-    place: "Open to Work",
+    title: "Dispatcher Assosiate",
+    place: "Denpasar, Bali",
     description:
-      "Diving deeper into modern frontend architecture, animation, and best practices. Open to new and challenging opportunities and collaborations.",
-    tags: ["Animation", "Architecture", "Open Source"],
+      "• Coordinate a team to ensure all operational tasks in the Bali region are executed effectively and on time.",
+"• Provide weekly and monthly reports on troubleshooting trends, new service activations, team productivity, and vendor performance.",
+"• Conduct data-driven analysis to identify anomalies in troubleshooting and activation cases, while implementing strategies to prevent ticket escalation.",
+"• Collaborate across divisions and with vendors to ensure ticket resolutions meet SLA requirements and maintain high-quality customer service.",
+    tags: ["Team Leadership", "Data Analysis & Reporting", "Incident & Fault Management"],
   },
 ];
 
