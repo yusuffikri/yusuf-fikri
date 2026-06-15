@@ -81,7 +81,10 @@ export const journey = [
     title: "Dispatcher Assosiate",
     place: "Denpasar, Bali",
     description:
-      "• Coordinate a team to ensure all operational tasks in the Bali region are executed effectively and on time.",
+      "• Coordinate a team of 15 members to ensure all operational tasks in the Bali region are executed effectively and on time. 
+      • Provide weekly and monthly reports on troubleshooting trends, new service activations, team productivity, and vendor performance.
+      • Conduct data-driven analysis to identify anomalies in troubleshooting and activation cases, while implementing strategies to prevent ticket escalation.
+      • Collaborate across divisions and with vendors to ensure ticket resolutions meet SLA requirements and maintain high-quality customer service.",
     tags: ["Team Leadership", "Data Analysis & Reporting", "Incident & Fault Management"],
   },
 ];
