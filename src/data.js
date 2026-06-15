@@ -2,7 +2,7 @@
 
 export const profile = {
   name: "Yusuf Fikri Mustanir",
-  role: "Frontend Web Developer",
+  role: "Telecommunication Engineer",
   tagline:
     "Learning about programming is always been my passion. I'm new at programming but I'm learning everyday, and I'm always motivated to do more!",
   location: "Indonesia",
@@ -11,7 +11,7 @@ export const profile = {
   socials: {
     linkedin: "https://linkedin.com/in/yusuffikri",
     telegram: "https://t.me/yusuffikri",
-    email: "mailto:yusuffikri@example.com",
+    email: "mailto:yusuffiks99@gmail.com",
   },
 };
 
