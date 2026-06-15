@@ -4,7 +4,7 @@ export const profile = {
   name: "Yusuf Fikri Mustanir",
   role: "Telecommunication Engineer",
   tagline:
-    "Learning about programming is always been my passion. I'm new at programming but I'm learning everyday, and I'm always motivated to do more!",
+    "Dispatcher Assosiate at PT Mega Akses Persada (Fiberstar)",
   location: "Indonesia",
   email: "yusuffiks99@gmail.com",
   resumeUrl: "/cv-yusuf-fikri.pdf",
