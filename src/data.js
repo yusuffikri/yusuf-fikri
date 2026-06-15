@@ -6,7 +6,7 @@ export const profile = {
   tagline:
     "Learning about programming is always been my passion. I'm new at programming but I'm learning everyday, and I'm always motivated to do more!",
   location: "Indonesia",
-  email: "yusuffikri@example.com",
+  email: "yusuffiks99@gmail.com",
   resumeUrl: "/cv-yusuf-fikri.pdf",
   socials: {
     linkedin: "https://linkedin.com/in/yusuffikri",
